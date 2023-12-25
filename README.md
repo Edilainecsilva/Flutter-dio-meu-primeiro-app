@@ -1,8 +1,8 @@
 # Meu primeiro app - Flutter
 
 A new Flutter project. Estou cursando mais um curso pela DIO. 
-O tema do curso é Formação Flutter Specialist e tivemos nosso primeiro desafio hoje.
-A criação do meu primeiro app utilizando a ferramente Flutter. 
+O curso tem como tema: "Formação Flutter Specialist". E hoje tivemos nosso primeiro desafio,
+a criação do primeiro app utilizando a ferramenta Flutter. 
 
 ## Getting Started
 
