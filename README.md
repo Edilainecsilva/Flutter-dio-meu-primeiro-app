@@ -1,6 +1,8 @@
-# dio
+# Meu primeiro app - Flutter
 
-A new Flutter project.
+A new Flutter project. Estou cursando mais um curso pela DIO. 
+O tema do curso é Formação Flutter Specialist e tivemos nosso primeiro desafio hoje.
+A criação do meu primeiro app utilizando a ferramente Flutter. 
 
 ## Getting Started
 
