@@ -28,10 +28,10 @@ class MyApp extends StatelessWidget {
         //
         // This works for code too, not just values: Most code changes can be
         // tested with just a hot reload.
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 162, 0, 0)),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Hello word!'),
+      home: const MyHomePage(title: 'Hello world its me!'),
     );
   }
 }
@@ -106,7 +106,8 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              'Você precisou o botão de adição, essa quantidade de vezes:',
+              style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold ),
             ),
             Text(
               '$_counter',
@@ -118,7 +119,7 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
         tooltip: 'Increment',
-        child: const Icon(Icons.add),
+        child: const Icon(Icons.add_shopping_cart),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
