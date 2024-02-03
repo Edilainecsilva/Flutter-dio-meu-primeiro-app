@@ -13,23 +13,6 @@ the standard template provided by Flutter when executing flutter create. The gen
 is a simple example consisting of a single screen, containing a button, a title, text, and a counter. 
 I am making some enhancements such as changing colors, fonts, and modifying the presented texts.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Claro, vou ajudar você a criar um README básico com essa informação. Lembre-se de personalizar conforme necessário para incluir detalhes específicos do seu projeto. Aqui está um exemplo simples:
-
----
-
 ## Como Executar
 
 1. Certifique-se de ter o Flutter instalado em seu ambiente de desenvolvimento.
